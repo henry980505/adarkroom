@@ -421,11 +421,11 @@ msgstr "一無所獲"
 
 #: ../../script/events.js:627
 msgid "all"
-msgstr ""
+msgstr "全部"
 
 #: ../../script/events.js:649
 msgid "take everything"
-msgstr ""
+msgstr "帶走全部東西"
 
 #: ../../script/events.js:653 ../../script/outside.js:627
 msgid " and "
@@ -675,7 +675,7 @@ msgstr "森林歸於靜謐"
 
 #: ../../script/events/outside.js:40
 msgid "nothing was found"
-msgstr ""
+msgstr "什麼都沒發現"
 
 #: ../../script/events/outside.js:43 ../../script/events/outside.js:61
 #: ../../script/events/outside.js:126 ../../script/events/outside.js:144
@@ -755,7 +755,7 @@ msgstr "疫病及時得到了控制"
 
 #: ../../script/events/outside.js:123
 msgid "sufferers are healed"
-msgstr ""
+msgstr "患者痊癒了"
 
 #: ../../script/events/outside.js:133
 msgid "the sickness spreads through the village."
@@ -771,7 +771,7 @@ msgstr "尖叫響徹黑夜"
 
 #: ../../script/events/outside.js:137
 msgid "sufferers are left to die"
-msgstr ""
+msgstr "患者坐以待斃"
 
 #: ../../script/events/outside.js:153
 msgid "Plague"
@@ -812,7 +812,7 @@ msgstr "剩下的人埋葬了他們"
 
 #: ../../script/events/outside.js:190
 msgid "epidemic is eradicated eventually"
-msgstr ""
+msgstr "傳染病最後被根除"
 
 #: ../../script/events/outside.js:204
 msgid "the plague rips through the village."
@@ -824,7 +824,7 @@ msgstr "人們只求速死"
 
 #: ../../script/events/outside.js:208
 msgid "population is almost exterminated"
-msgstr ""
+msgstr "幾乎沒有人了"
 
 #: ../../script/events/outside.js:224
 msgid "A Beast Attack"
@@ -844,11 +844,11 @@ msgstr "村民撤了回來，悼念那些死去的人"
 
 #: ../../script/events/outside.js:235
 msgid "wild beasts attack the villagers"
-msgstr ""
+msgstr "荒野的怪物攻擊村莊"
 
 #: ../../script/events/outside.js:249
 msgid "predators become prey. price is unfair"
-msgstr ""
+msgstr "獵食者變成獵物，價格不公平"
 
 #: ../../script/events/outside.js:258
 msgid "A Military Raid"
@@ -873,7 +873,7 @@ msgstr "黑死病席捲村落"
 
 #: ../../script/events/outside.js:283
 msgid "warfare is bloodthirsty"
-msgstr ""
+msgstr "戰爭十分血腥"
 
 #: ../../script/events/room.js:6
 msgid "The Nomad"
@@ -1477,7 +1477,7 @@ msgstr ""
 
 #: ../../script/events/setpieces.js:714
 msgid "a beast stands alone in an overgrown park."
-msgstr ""
+msgstr "一隻野獸隻身站在雜草叢生的地方"
 
 #: ../../script/events/setpieces.js:730
 msgid "an overturned caravan is spread across the pockmarked street."
